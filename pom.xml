@@ -17,7 +17,7 @@
 	<artifactId>jdbc-spring-newclient</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<name>jdbc-spring-newclient</name>
-	<description>Getting to know the New Spring JDBC Client with the Oracle Database 23c</description>
+	<description>Getting to Know the New Spring JDBC Client with the Oracle Database 23c</description>
 	<url>https://juarezjunior.medium.com/bf2dfbca3bf2</url>
 
 	<properties>
